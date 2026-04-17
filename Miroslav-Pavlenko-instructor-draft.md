@@ -20,7 +20,7 @@
 
 ## Purpose
 
-Graduating with a computer science or software engineering degree is the baseline  studios like Scopely hire the candidates who can show real shipped work before they walk across the stage. This guide lays out the best practices to follow between now and graduation so your portfolio, skills, and professional presence reflect the fullstack game engineer you are becoming. The fullstack engineer role at Scopely requires Unity and C# experience, backend API knowledge, and cloud platform familiarity  none of which a degree alone guarantees.[^1] Following these practices puts you ahead of every candidate whose GitHub is empty and whose resume lists only coursework. Your recruiter is not reading your transcript; they are reading your projects.
+Graduating with a computer science or software engineering degree is the minimum need for studios like Scopely, who hire applicants who can demonstrate real-world shipping work before walking across the stage. This guide outlines the best practices to follow between now and graduation to ensure that your portfolio, abilities, and professional presence reflect your development as a full-stack game engineer. Scopely's full-stack engineer position necessitates Unity and C# skills, backend API knowledge, and familiarity with cloud platforms, all of which a degree does not guarantee.[^1] Following these procedures puts you ahead of every contender whose GitHub is empty and whose résumé solely has coursework. Your recruiter is not reading your transcript; instead, he or she is reading your projects.
 
 ---
 

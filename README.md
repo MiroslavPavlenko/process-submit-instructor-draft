@@ -57,29 +57,8 @@ Treating these five practices as things to do "eventually" is how engineers reac
 **Figure 1. Fullstack Game Engineer Skill Building Timeline by Academic Year**
 ![** Figure 1. Fullstack Game Engineer Skill Building Timeline by Academic Year **](https://raw.githubusercontent.com/MiroslavPavlenko/process-submit-instructor-draft/refs/heads/main/Fullstack%20Game%20Engineer%20Skill%20Building-Timeline-by-Academic-Year.png)
 
-### **Sophmore year**
- - Start [LeetCode](https://leetcode.com/problemset/) weekly
- - First game jam on [itch.io](https://itch.io/jams)
- - Set up [GitHub](https://github.com/signup) profile
+By sophomore year you are shipping game jam projects and solving [LeetCode](https://leetcode.com/problemset/) weekly. By junior year you have an internship on your resume and a cloud project in your portfolio. By senior fall you are polishing, not building from scratch which is exactly where you want to be when recruiters start reviewing applications.
 
-### **Junior year**
- - Ship 2 portfolio projects
- - Build REST API on [AWS](https://aws.amazon.com/api-gateway/)/[GCP](https://docs.cloud.google.com/api-gateway/docs)
- - Optimize [LinkedIn](www.linkedin.com) headline
- - 2 game jams completed
-
-### **Senior fall**
-  - Polish top 2 GitHub
-  - Apply [to full-time roles](https://builtin.com/jobs?search=Full-Stack+Engineer&city=&state=&country=USA&allLocations=true)
-  - Mock interview practice
-
-### **Senior spring**
-  - Final interviews
-  - Negotiate and sign offer
-  - Semester review audit
-  - Graduation
-
-By sophomore year you are shipping game jam projects and solving LeetCode weekly. By junior year you have an internship on your resume and a cloud project in your portfolio. By senior fall you are polishing, not building from scratch — which is exactly where you want to be when recruiters start reviewing applications.
 
 ### Staying on Track
 

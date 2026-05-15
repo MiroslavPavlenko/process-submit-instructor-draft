@@ -56,11 +56,11 @@ Graduating with a computer science or software engineering degree is an importan
 
 ## Learning Roadmap
 
-The figure below maps the plan across the remaining academic years, so you can see when each practice should start instead of waiting until senior year. It works as a quick timeline for turning small steps into stronger portfolio evidence over time.
+The figure below shows how each best practice turns into evidence that recruiters can actually see. Instead of only showing when to complete each step, it connects each action to portfolio proof, interview readiness, and a stronger full-stack game engineer application.
 
-**Figure 1. Fullstack Game Engineer Skill Building Timeline by Academic Year**
+**Figure 1. How Best Practices Become Recruiter-Visible Evidence**
 
-![Figure 1. Fullstack Game Engineer Skill Building Timeline by Academic Year](https://raw.githubusercontent.com/MiroslavPavlenko/process-submit-instructor-draft/refs/heads/main/Fullstack%20Game%20Engineer%20Skill%20Building-Timeline-by-Academic-Year.png)
+![Figure 1. How Best Practices Become Recruiter-Visible Evidence](https://raw.githubusercontent.com/MiroslavPavlenko/process-submit-instructor-draft/refs/heads/main/Figure1.png)
 
 Use the figure as a semester-by-semester checklist. Start with smaller actions like LeetCode, GitHub setup, and a first game jam. Then build toward stronger projects, cloud/API work, applications, interviews, and graduation.
 

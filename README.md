@@ -24,8 +24,6 @@ Graduating with a computer science or software engineering degree is the minimum
 
 ---
 
-## Best Practices
-
 ### Build Real Projects Outside of Class
 
 Course projects tell a recruiter you can follow instructions; personal projects tell them you can think independently and ship something real. Participate in at least two game jams per year on itch.io, publish every project to a public GitHub repository with a descriptive README, and treat each one as a portfolio piece not a throwaway weekend exercise.

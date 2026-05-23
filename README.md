@@ -13,7 +13,6 @@
 - [Learning Roadmap](#learning-roadmap)
   - [Staying on Track](#staying-on-track)
 - [References](#references)
-
 ---
 
 ## Purpose
@@ -69,6 +68,9 @@ Use the figure as a semester-by-semester checklist. Start with smaller actions l
 Set a calendar reminder each November and April to review your GitHub activity, count your shipped projects, and update your LinkedIn with anything new. Starting early makes the process easier because each project, commit, and interview practice session builds on the last one.
 
 ---
+### Word Count: 622
+
+---
 
 ## References
 
@@ -89,3 +91,4 @@ Set a calendar reminder each November and April to review your GitHub activity, 
 [^8]: IBM, "What is a REST API?," [Online]. Available: https://www.ibm.com/think/topics/rest-apis. [Accessed Apr. 9, 2026].
 
 [^9]: Built In, "Full-Stack Engineer Jobs," [Online]. Available: https://builtin.com/jobs?search=Full-Stack+Engineer&city=&state=&country=USA&allLocations=true. [Accessed Apr. 9, 2026].
+
